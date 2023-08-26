@@ -1,6 +1,17 @@
 # Nine keyboard
 
-![Keyboard in case showing both halves with displays switched on](docs/images/left_right_in_case.jpeg)
+![Nine Keyboard in case showing both halves with displays switched on](docs/images/left_right_in_case.jpeg)
+
+![New 5'o16 variant of Nine Keyboard PCB, rendered, left side view only](docs/images/render_variant_5o16.png)
+
+![New 5'o17 variant of Nine Keyboard PCB, rendered, left side view only](docs/images/render_variant_5o16.png)
+
+
+The Nine keyboard and its variants open up new possibilities for split wireless keyboard applications, as well as one-handed keyboard/keypad applications that rely on reduced-key layouts and take advantage of chording, layers, and other clever firmware features to provide novel typing experiences with reduced finger motion.
+
+The [variants page](docs/variants_5o16_5o17.md) provides more detail on the added-key variants.
+
+(Remaining text below was written by the original author "ButShesAGirl")
 
 The Nine is a tiny 18-key split, wireless, ergonomic split keyboard, heavily inspired by Ben Vallack's [Piano 2](https://www.pcbway.com/project/shareproject/The_Piano_by_Ben_Vallack_Ultra_minimal_18_key_keyboard_5b2c99e1.html). I tried out his design and loved it, but wanted to [tweak the physical layout](https://www.rousette.org.uk/archives/introducing-the-nine-keyboard/) a bit to fit my hands and my use case better. It uses Nice!Nano V2 BLE-equipped controllers, and (optionally) Nice!View displays to show information like the connected BLE profile, battery level and layer name. You can read more about this keyboard and the design decisions I made here: [Introducing the Nine keyboard](https://www.rousette.org.uk/archives/introducing-the-nine-keyboard/) and [Nine keyboard Part 2 - the case](https://www.rousette.org.uk/archives/nine-keyboard-part-2-the-case/).
 

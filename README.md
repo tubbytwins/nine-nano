@@ -4,7 +4,7 @@
 
 ![New 5'o16 variant of Nine Keyboard PCB, rendered, left side view only](docs/images/render_variant_5o16.png)
 
-![New 5'o17 variant of Nine Keyboard PCB, rendered, left side view only](docs/images/render_variant_5o16.png)
+![New 5'o17 variant of Nine Keyboard PCB, rendered, left side view only](docs/images/render_variant_5o17.png)
 
 
 The Nine keyboard and its variants open up new possibilities for split wireless keyboard applications, as well as one-handed keyboard/keypad applications that rely on reduced-key layouts and take advantage of chording, layers, and other clever firmware features to provide novel typing experiences with reduced finger motion.

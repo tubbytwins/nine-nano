@@ -1,4 +1,4 @@
-21311041951438103
+21314457157056418
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59724,11 +59724,25 @@ Kailh_PG1350_2u_stab_solder
 2
 2
 Matt1Library
+Kailh_PG1350_bw_1.5u_both
+
+
+0
+4
+2
+Matt1Library
 Kailh_PG1350_bw_1.5u_solder
 
 
 0
 2
+2
+Matt1Library
+Kailh_PG1350_bw_1u_both
+
+
+0
+4
 2
 Matt1Library
 Kailh_PG1350_bw_1u_solder
@@ -60190,8 +60204,8 @@ rp2040_pro_micro_2x13
 
 
 0
-24
-24
+32
+32
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
